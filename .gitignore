@@ -1,0 +1,6 @@
+.vagrant/
+web/npm-debug.log
+web/node_modules/
+web/typings/
+web/app/*.js
+web/app/*.js.map
